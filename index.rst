@@ -8,13 +8,13 @@ Welcome to reStructured Guide!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 段落:
+   :caption: 段落（Paragraphs）:
    
    introduction/paragraphs.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: 行内标记:
+   :caption: 行内标记（Inline markup）:
    
    introduction/inlinemarkup.rst
 

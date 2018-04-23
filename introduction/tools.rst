@@ -8,26 +8,26 @@ reStructured文档可以用以下工具进行写作：
 
 **在线写作工具**
 
-*`Online reStructuredText editor <http://rst.ninjs.org/>`_
+* `Online reStructuredText editor <http://rst.ninjs.org/>`_
 
-*`Notex.ch <https://www.notex.ch/editor>`_
+* `Notex.ch <https://www.notex.ch/editor>`_
 
 
 **本地写作软件**
 
-*Visual Studio Code
+* Visual Studio Code
 
-*Notepad++
+* Notepad++
 
-*Sublime Text
+* Sublime Text
 
-*ReText
+* ReText
 
 发布工具
 =====================
 
 reStructured文档可以用以下工具进行发布：
 
-*Pelican
+* Pelican
 
-*Sphinx
+* Sphinx
